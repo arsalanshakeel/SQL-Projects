@@ -16,3 +16,7 @@
 
 > Tableau
 - Dashboard: [SBA Loan Summary](https://public.tableau.com/app/profile/muhammad.arsalan4012/viz/SBALoanSummary/SBALoanSummary) 
+
+### 3. Covid Analysis
+- [Covid Dataset](https://ourworldindata.org/covid-deaths)
+- [Evaluation](https://github.com/arsalanshakeel/SQL-Projects/blob/main/Covid_Analysis/covid_analysis.sql)
